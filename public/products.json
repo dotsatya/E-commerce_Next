@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Headphones",
+    "price": 199.99,
+    "category": "Electronics",
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life.",
+    "image": "globe.svg",
+    "rating": 4.5,
+    "reviews": 128,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "price": 49.99,
+    "category": "Electronics",
+    "description": "Ergonomic wireless mouse with precision tracking and 18-month battery.",
+    "image": "globe.svg",
+    "rating": 4.3,
+    "reviews": 89,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "price": 129.99,
+    "category": "Electronics",
+    "description": "RGB mechanical keyboard with customizable switches and programming options.",
+    "image": "globe.svg",
+    "rating": 4.7,
+    "reviews": 245,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "price": 79.99,
+    "category": "Accessories",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
+    "image": "globe.svg",
+    "rating": 4.2,
+    "reviews": 67,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Phone Stand",
+    "price": 24.99,
+    "category": "Accessories",
+    "description": "Adjustable phone stand compatible with all smartphone sizes.",
+    "image": "globe.svg",
+    "rating": 4.4,
+    "reviews": 156,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Portable Charger",
+    "price": 59.99,
+    "category": "Power",
+    "description": "30000mAh portable charger with fast charging and LED display.",
+    "image": "globe.svg",
+    "rating": 4.6,
+    "reviews": 312,
+    "inStock": false
+  }
+]

